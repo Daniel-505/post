@@ -1,0 +1,21 @@
+# Dependencias de Node.js
+node_modules/
+
+# Archivos de log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos de entorno
+.env
+
+# Carpetas de caché
+.cache/
+
+# Directorios de construcción
+dist/
+build/
+
+# Otros archivos que no deseas incluir
+*.DS_Store
+*.log
